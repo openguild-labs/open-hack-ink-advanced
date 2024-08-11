@@ -3,4 +3,4 @@ Learning more advanced concepts in ink! related to token standards PSP22 and PSP
 
 ## Introduction
 
-- Please insert the introduction here.
+Please insert the introduction here.
