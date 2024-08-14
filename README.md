@@ -4,6 +4,13 @@
 
 This tutorial will guide you through implementing and working with the PSP22 (a token standard similar to ERC20) and PSP34 (similar to ERC721) using the Inkathon framework and OpenBrush library. These tools are part of the Polkadot ecosystem for smart contract development using the Ink! language.
 
+## Learn more about OpenGuild
+
+- **About us:** [Learn more about us](https://openguild.wtf/about)
+- **Website:** [OpenGuild Website](https://openguild.wtf/)
+- **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
+- **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
 ## 📝 Prerequisites
 
 Before we start, ensure you have the following:
