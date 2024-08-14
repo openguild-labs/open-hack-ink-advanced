@@ -388,5 +388,5 @@ mintPSP22Token('<contract_address>', '<recipient_address>', '1000');
 
 You’ve now set up a basic environment to work with PSP22 and PSP34 contracts using Inkathon and OpenBrush. You can expand these contracts by implementing additional features or extending the functionality according to your needs.
 
-Feel free to explore further by diving into the [Ink! documentation](https://use.ink/) and the [OpenBrush GitHub repository](https://github.com/727-Ventures/openbrush-contracts) for more advanced use cases and examples.
+Feel free to explore further by diving into the [Ink! documentation](https://use.ink/) and the [OpenBrush GitHub repository](https://github.com/Brushfam/openbrush-contracts) for more advanced use cases and examples.
 
