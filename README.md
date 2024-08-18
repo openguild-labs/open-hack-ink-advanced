@@ -343,7 +343,7 @@ Inkathon provides tools to interact with your smart contract from a TypeScript e
 
 ```bash
 npm install -g @myestery/create-inkathon-app
-npx @myestery/create-inkathon-app my-app
+npx @myestery/create-inkathon-app my-ink-app
 cd my-app 
 npm install
 ```
