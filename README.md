@@ -2,6 +2,9 @@
 
 # 📚 Tutorial: Working with PSP22 and PSP34 using Inkathon and OpenBrush
 
+> [!WARNING]
+> OpenBrush is out-dated. Please use this tutorial for the learning purpose only. There are up-to-date standards can be found here: https://github.com/Cardinal-Cryptography/PSP34
+
 This tutorial will guide you through implementing and working with the PSP22 (a token standard similar to ERC20) and PSP34 (similar to ERC721) using the Inkathon framework and OpenBrush library. These tools are part of the Polkadot ecosystem for smart contract development using the Ink! language.
 
 ## Learn more about OpenGuild
